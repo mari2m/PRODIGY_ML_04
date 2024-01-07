@@ -5,5 +5,5 @@
       computer interaction and gesture-based control systems
 #Dataset :-
 #           https://www.kaggle.com/gti-upm/leapgestrecog
-#Tools :-
+#      Tools :-
 #      tensorflow / cv2 / keras / sklearn / numpy / pandas / matplotlib / seaborn
